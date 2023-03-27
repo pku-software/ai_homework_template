@@ -1,3 +1,10 @@
+# Project Specific
+lib/
+.clang-format
+
+# IDE
+.vscode/
+
 # Prerequisites
 *.d
 
