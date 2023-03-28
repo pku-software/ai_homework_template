@@ -3,6 +3,10 @@ bin/
 build/
 .clang-format
 
+# Third-parties
+/includes/
+/lib/
+
 # IDE
 .vscode/
 
