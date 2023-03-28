@@ -2,6 +2,9 @@
 bin/
 build/
 .clang-format
+.xmake
+.cache
+compile_commands.json
 
 # Third-parties
 /includes/
