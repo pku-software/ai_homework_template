@@ -1,0 +1,10 @@
+name: "online judge"
+on:
+  push:
+    branches: [main]
+
+jobs:
+  judge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: pku-software/ai-homework-judge-action@v1
