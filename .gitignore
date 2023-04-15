@@ -46,3 +46,6 @@ compile_commands.json
 *.exe
 *.out
 *.app
+
+# OS
+.DS_Store
